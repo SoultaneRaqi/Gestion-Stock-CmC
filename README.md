@@ -18,7 +18,6 @@ This project uses **localStorage** as a database to persist products between ses
 
 ---
 
-More responsive and modern UI
 
 Author
 Soultane Raqi – School TP project
