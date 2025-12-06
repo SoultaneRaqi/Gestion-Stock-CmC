@@ -1,7 +1,7 @@
 # TP Gestion de Stock
 
 ## Description
-This is a **Stock Management Web Application** built as a school TP using **React**, **Vite**, and **TailwindCSS v4**.  
+This is a **Stock Management Web Application** built using **React**, **Vite**, and **TailwindCSS v4**.  
 It allows users to manage products with a **simple CRUD system** (Create, Read, Update, Delete) and view key stock information on a dashboard.  
 
 This project uses **localStorage** as a database to persist products between sessions.  
