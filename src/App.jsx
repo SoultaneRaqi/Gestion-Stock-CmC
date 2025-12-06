@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import Dashboard from "./pages/Dashboard";
 import ProductsList from "./pages/ProductsList";
 import AddProduct from "./pages/AddProduct";
-
+/* coMMENT JUST FOR TEST  */
 export default function App() {
   const [page, setPage] = useState("dashboard");
 
