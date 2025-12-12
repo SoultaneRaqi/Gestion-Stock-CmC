@@ -18,6 +18,8 @@ export default function ProductForm({ onSubmit }) {
     };
 
     onSubmit(newProduct);
+    // Reset form to empty state
+    setProduct({ name: "", quantity: "", price: "" });
   };
 
   return (
